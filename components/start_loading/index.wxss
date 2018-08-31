@@ -1,0 +1,16 @@
+/* components/start_loading/index.wxss */
+.loadModel{
+    position:fixed;
+    top:0rpx;
+    height:100%;
+    width:100%;
+    background-color:white;
+}
+.body{
+    background-image: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1535705969054&di=da38239b4599675f81a3bd96259f4d90&imgtype=0&src=http%3A%2F%2Fn1.itc.cn%2Fimg8%2Fwb%2Fsmccloud%2Ffetch%2F2015%2F04%2F25%2F120926168770473603.GIF";
+}
+.content{
+    text-align:center;
+    display:block;
+
+}
